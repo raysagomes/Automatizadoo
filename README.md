@@ -1,1 +1,1 @@
-Projeto simples, de teste automatizado de login.
+Projeto simples, de teste automatizado de login, feito com Java e Selenium.
